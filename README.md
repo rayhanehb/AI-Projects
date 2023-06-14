@@ -1,7 +1,7 @@
-## AI-Projects
-# Sliding puzzle solver: 
+# AI-Projects
+## Sliding puzzle solver: 
 hrd.py
-# checkers endgame
+## checkers endgame
 checkers.py
-# HMM part of speech tagging
+## HMM part of speech tagging
 tagger.py
