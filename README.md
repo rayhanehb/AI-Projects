@@ -1,13 +1,13 @@
 # AI-Projects
 ## Sliding puzzle solver: 
 hrd.py
-## checkers endgame
-checkers.py
-Checkers Endgame Solver
+## checkers endgame solver
+**file** : checkers.py
 
-TO RUN FILE: python3 checkers_solver.py --inputfile input.txt --outputfile output.txt
 
-Description:
+**TO RUN FILE:** python3 checkers_solver.py --inputfile input.txt --outputfile output.txt
+
+**Description:**
 
 The Checkers Endgame Solver is a Python-based program designed to assist checkers (draughts) enthusiasts and players in optimizing their endgame strategies. In the game of checkers, the endgame phase involves complex tactical maneuvers, and this solver aims to provide an efficient and interactive tool to analyze and learn from various endgame scenarios.
 
