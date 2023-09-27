@@ -4,7 +4,7 @@ hrd.py
 
 
 ## HMM part of speech tagging
-** TO RUN FILE:** python3 pos_tagger.py --trainingfiles training1.txt training2.txt --testfile test.txt --outputfile output.txt
+**TO RUN FILE:** python3 pos_tagger.py --trainingfiles training1.txt training2.txt --testfile test.txt --outputfile output.txt
 
 **Description:**
 
