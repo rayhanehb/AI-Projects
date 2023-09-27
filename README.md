@@ -4,13 +4,13 @@ hrd.py
 
 
 ## HMM part of speech tagging
- TO RUN FILE: python3 pos_tagger.py --trainingfiles training1.txt training2.txt --testfile test.txt --outputfile output.txt
+** TO RUN FILE:** python3 pos_tagger.py --trainingfiles training1.txt training2.txt --testfile test.txt --outputfile output.txt
 
-Description:
+**Description:**
 
 The Part-of-Speech (POS) Tagger is a Python-based program that enhances text analysis accuracy by assigning POS tags to words in a given text. This tool aids in optimizing data processing workflows and improving the performance of AI-driven applications that rely on linguistic analysis.
 
-Features:
+**Features:**
 
 Statistical POS Tagging: The tagger employs statistical models and machine learning techniques to assign accurate POS tags to words, facilitating advanced natural language processing tasks.
 Emission and Transition Probabilities: The program calculates emission and transition probabilities, enhancing tagging precision and adaptability to various text domains.
