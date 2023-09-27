@@ -1,6 +1,23 @@
 # AI-Projects
 ## Sliding puzzle solver: 
 hrd.py
+
+
+## HMM part of speech tagging
+ TO RUN FILE: python3 pos_tagger.py --trainingfiles training1.txt training2.txt --testfile test.txt --outputfile output.txt
+
+Description:
+
+The Part-of-Speech (POS) Tagger is a Python-based program that enhances text analysis accuracy by assigning POS tags to words in a given text. This tool aids in optimizing data processing workflows and improving the performance of AI-driven applications that rely on linguistic analysis.
+
+Features:
+
+Statistical POS Tagging: The tagger employs statistical models and machine learning techniques to assign accurate POS tags to words, facilitating advanced natural language processing tasks.
+Emission and Transition Probabilities: The program calculates emission and transition probabilities, enhancing tagging precision and adaptability to various text domains.
+Viterbi Algorithm: Utilizing the Viterbi algorithm, the tagger efficiently predicts the most likely sequence of POS tags for input sentences.
+Interactive Usage: Users can apply the POS tagger to their text data, providing valuable insights for tasks such as information retrieval, sentiment analysis, and more.
+Create an input file (e.g., test.txt) with the text you want to analyze. The program will generate an output file (e.g., output.txt) with the assigned POS tags for each word.
+
 ## checkers endgame solver
 **file** : checkers.py
 
@@ -38,5 +55,9 @@ Use 'r' for red pieces (normal) and 'R' for red kings.<br>
 Use 'b' for black pieces (normal) and 'B' for black kings.<br>
 
 
-## HMM part of speech tagging
-tagger.py
+
+
+
+
+
+
